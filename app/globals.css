@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
 
 /* ===== design system: tokens/fonts.css ===== */
 /* Ask Analyst ships one typeface: Lato.
@@ -6,7 +6,6 @@
    so the @font-face rules come from Google's stylesheet rather than local binaries.
    No brand font binaries exist in the source repo — see readme.md "Fonts". */
 
-700;900&display=swap');
 
 /* ===== design system: tokens/colors.css ===== */
 /* Ask Analyst — colour tokens
